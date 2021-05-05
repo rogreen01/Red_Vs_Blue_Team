@@ -13,4 +13,4 @@ Hardenening and Mitigation Strategies
 
 The pdf contains the report presentable to the client (a softcopy print of the powerpoint document)
 
-[](https://github.com/rogreen01/Red_Vs_Blue_Team/blob/5811a15967159b3fb194154ca54e5e390ca50bb1/Red%20Team%20Vs.%20Blue%20Team_Project%202.pdf)
+[Red Team Vs. Blue Team_Project 2.pdf](https://github.com/rogreen01/Red_Vs_Blue_Team/blob/5811a15967159b3fb194154ca54e5e390ca50bb1/Red%20Team%20Vs.%20Blue%20Team_Project%202.pdf)
